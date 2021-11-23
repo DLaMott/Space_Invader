@@ -1,0 +1,6 @@
+# Space_Invader
+Space Inavders game developed for Android Devices.
+
+This application is a recreation os the popular space invaders game. 
+
+To use clone this repo and install to an android device of your choosing!
