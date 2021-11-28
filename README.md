@@ -1,5 +1,5 @@
 # Space_Invader
-Space Inavders game developed for Android Devices.
+Space Invaders game developed for Android Devices.
 
 This application is a recreation os the popular space invaders game. 
 
